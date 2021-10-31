@@ -1,4 +1,17 @@
-### Hi there 👋
+# 👋👋 Hi there 👯👯
+
+## 🌱 I'm currently learning ...
+
+* Java Spring JUnit
+* Python
+* Javascript Vue Angular
+
+## 💬 About Me
+Java programmer🧑🏻‍💻 working at Japan 🇯🇵
+
+Language: 🇯🇵🇨🇳🇺🇸
+
+This is [my site](http://xsun4231.github.io)
 
 <!--
 **Null-PE/Null-PE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
